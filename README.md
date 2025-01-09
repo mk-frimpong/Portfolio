@@ -33,17 +33,16 @@ Visualized trends using Matplotlib and Seaborn, enabling actionable recommendati
 [Read More](https://github.com/mk-frimpong/Data-Analysis-/blob/main/Customer%20Churn%20Analysis.ipynb)
 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 ## SKILLS
-Python                    SQL
-Power BI                  Microsoft Excel          Data Entry
-Statistical Analysis      Data Visualization       Predictive Modeling
+- Python | SQL
+- Power BI | Microsoft Excel | Data Entry
+- Statistical Analysis | Data Visualization | Predictive Modeling
 
 ## CERTFICATIONS
-Data Analytics and Digital Transformation – Arizona State University
-Data Science (Python and MySQL) – Ghana Tech Lab
-Preparing Data for Impact Analysis – USAID
+- Data Analytics and Digital Transformation – Arizona State University
+- Data Science (Python and MySQL) – Ghana Tech Lab
+- Preparing Data for Impact Analysis – USAID
 
 ## CONTACT DETAILS
 
