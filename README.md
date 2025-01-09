@@ -62,7 +62,7 @@ Visualized trends using Matplotlib and Seaborn, enabling actionable recommendati
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="[[https://linkedin.com/in/etukanietie](https://www.linkedin.com/in/frimpong-michael-334514237)]([https://www.linkedin.com/in/frimpong-michael-334514237](https://www.linkedin.com/in/frimpong-michael-334514237))">LinkedI`vcxn Profile</a></td>
+      <td><a href="[[https://linkedin.com/in/etukanietie](https://www.linkedin.com/in/frimpong-michael-334514237)]([https://www.linkedin.com/in/frimpong-michael-334514237](https://www.linkedin.com/in/frimpong-michael-334514237))">LinkedI`vn Profile</a></td>
     </tr>
   </tbody>
 </table>
