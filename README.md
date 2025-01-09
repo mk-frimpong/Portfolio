@@ -24,7 +24,7 @@ I design and deliver training programs on data tools like Python, SQL, and Power
 *A selection of projects that showcase my expertise.*
 
 **Customer Churn Analysis and Prediction**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Untitled design.png)
 
 Designed and implemented a predictive model to identify customer churn using Python, Pandas, and Scikit-learn.
 
